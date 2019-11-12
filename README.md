@@ -3,10 +3,10 @@ Sample demo project
 swaggerjersey is the sample project for someone who wishes to configure swagger with embedded Jetty. 
 The REST framework used here is Java Jersey, and Jackson annotations for serialization and deserialization.
 
-`To Build the project`
+To Build the project
 
 run
-mvn clean install
+`mvn clean install`
 
 You can then run the Main class (Main.java)
 The server should be accessible at http://localhost:50001/ping -> this should return ALIVE.
