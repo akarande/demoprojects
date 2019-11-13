@@ -1,7 +1,7 @@
 # demoprojects
 Sample demo projects
 
-**SWAGGERJERSEY**
+**SWAGGERJERSEY [Swagger Integration with Java REST API]** 
 
 swaggerjersey is the sample project for someone who wishes to configure swagger with embedded Jetty. 
 The REST framework used here is Java Jersey, and Jackson annotations for serialization and deserialization.
