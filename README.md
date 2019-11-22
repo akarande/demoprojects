@@ -1,4 +1,4 @@
-# demoprojects
+# rest-api-with-swagger [embedded jetty]
 Sample demo projects
 
 **SWAGGERJERSEY [Swagger Integration with Java REST API]** 
